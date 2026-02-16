@@ -8,18 +8,18 @@ OpenCore for Asus ROG MAXIMUS Z790 EXTREME + i9-14900KS + REFERENCE CARD AMD 690
 
 | Component | Model |
 |:----------|:------|
-| **CPU** | Intel Core i9-14900KS (24 cores) @ 3.2 GHz |
+| **CPU**| Intel Core i9-14900KS (24 cores) @ 3.2 GHz |
 | **Motherboard** | ASUS ROG MAXIMUS Z790 EXTREME |
-| **RAM** | 48GB (2x24GB) G SKILL @ 7400MHz |
-| **GPU (Display)** | AMD Radeon RX 6900 XT 16 GB|
-| **GPU (Compute)** | NVIDIA GeForce RTX 4090 24GB |
-| **Audio** | Realtek ALC4082 |
-| **Ethernet** | Intel i226-V 2.5GbE |
-| **Ethernet** | AQUANTIA AQC113 10GbE |
-| **WiFi/BT** | Intel AX210 (AirportItlwm + OCLP) |
-| **Thunderbolt** | Intel Maple Ridge 4C (TB4) |
-| **Storage** | 1x Samsung 860 PRO |
-| **SMBIOS** | iMacPro1,1 |
+| **RAM**| 48GB (2x24GB) G SKILL @ 7400MHz |
+| **GPU (Display)**| AMD Radeon RX 6900 XT 16 GB|
+| **GPU (Compute)**| NVIDIA GeForce RTX 4090 24GB |
+| **Audio**| Realtek ALC4082 |
+| **Ethernet**| Intel i226-V 2.5GbE |
+| **Ethernet**| AQUANTIA AQC113 10GbE |
+| **WiFi/BT**| Intel AX210 (AirportItlwm + OCLP) |
+| **Thunderbolt**| Intel Maple Ridge 4C (TB4) |
+| **Storage**| 1x Samsung 860 PRO |
+| **SMBIOS**  iMacPro1,1 |
 
 </td><td>
 
