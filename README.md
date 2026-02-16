@@ -52,7 +52,7 @@ TB4:  Maple Ridge
 | Feature | Status | Notes |
 |:--------|:------:|:------|
 | **macOS Boot** | ✅ | High Sierra → Sequoia |
-| **GPU Acceleration** | ✅ | Metal, QE/CI via RX 570 |
+| **GPU Acceleration** | ✅ | Metal, QE/CI via 6900 XT |
 | **Audio** | ✅ | ALC4082 via AppleALC |
 | **Ethernet** | ✅ | i226-V via AppleIGC |
 | **Ethernet** | ✅ | AQUANTIA AQC113 10GbE|
