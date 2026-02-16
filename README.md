@@ -19,7 +19,7 @@ OpenCore for Asus ROG MAXIMUS Z790 EXTREME + i9-14900KS + REFERENCE CARD AMD 690
 | **WiFi/BT**| Intel AX210 (AirportItlwm + OCLP) |
 | **Thunderbolt**| Intel Maple Ridge 4C (TB4) |
 | **Storage**| 1x Samsung 860 PRO |
-| **SMBIOS**  iMacPro1,1 |
+| **SMBIOS**| iMacPro1,1 |
 
 </td><td>
 
